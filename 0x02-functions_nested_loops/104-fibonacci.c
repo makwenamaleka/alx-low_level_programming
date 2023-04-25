@@ -3,7 +3,7 @@
 /**
  * main - fibonacci <3
  * Purpose - no hardcode
- * Return:
+ * Return: (success)
  */
 
 int main(void)
